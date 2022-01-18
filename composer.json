@@ -17,5 +17,11 @@
         "psr-4": {
             "rc4dayyan\\simpleErrorLog\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/rc4dayyan/yii2-simple-error-log"
+        }
+    ]
 }
