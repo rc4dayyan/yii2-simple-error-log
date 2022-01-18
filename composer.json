@@ -1,0 +1,21 @@
+{
+    "name": "rc4dayyan/yii2-simple-error-log",
+    "description": "simple-error-log is an extension for managing error logs that can help both in the development and maintenance process",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","log"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "rc4dayyan",
+            "email": "rifadayyan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rc4dayyan\\simpleErrorLog\\": ""
+        }
+    }
+}
